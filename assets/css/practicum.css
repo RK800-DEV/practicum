@@ -1,0 +1,32 @@
+/*
+    PracticumServices Theme
+*/
+h1, h2, h3, h4, h5, h6 { font-family: "Fira Sans" }
+.h1, .h2, .h3, .h4, .h5, .h6 { font-family: "Fira Sans"; }
+.heading, .heading-text { font-family: "Fira Sans"; }
+.font-weight-black { font-weight: 900; }
+html, body { color:#000000; scroll-behavior: smooth; }
+.jumbotron { border-radius: 0px; }
+
+.practicum-gradient {
+    background-color: #4158D0;
+    background-image: linear-gradient(90deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+body {
+  background: white;
+  padding-top: 56px;
+  color: black;
+  font-family: Fira Sans;
+}
+.hero-jumbotron {
+  margin-bottom: 0px;
+}
+.padtopbotbig { padding-bottom: 15rem; padding-top: 15rem; }
+.padbig { padding: 15rem; }
+.practicumcolor { color: #4158D0; }
+
+.servicesbg {
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+.rounded { border-radius: 6px; }
